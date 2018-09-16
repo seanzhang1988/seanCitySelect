@@ -1,7 +1,7 @@
 ._citys { width: 465px; display: inline-block; border: 2px solid #eee; padding: 5px; position: relative; background:#fff }
 .cClose { color: #56b4f8; height: 15px; width: 15px; line-height: 12px; text-align: center; border-radius: 3px; position: absolute; right: 10px; top: 10px; border: 1px solid #56b4f8; cursor: pointer; }
 .cClose:hover { color:#fff;background: #56B4F8 }
-.cClear { color: #56b4f8; height: 25px; width: 30px; line-height: 25px; text-align: center; border-radius: 3px; position: absolute; right: 60px; top: 8px; border: 1px solid #56b4f8; cursor: pointer; }
+.cClear { color: #56b4f8; height: 25px; width: 30px; line-height: 25px; text-align: center; border-radius: 3px; position: absolute; right: 60px; top: 8px; border: 1px solid #56b4f8; cursor: pointer;font-size:12px }
 .cClear:hover { color:#fff;background: #56B4F8 }
 ._citys0 { width: 100%; height: 34px; display: inline-block; border-bottom: 2px solid #56b4f8; padding: 0; margin: 0; }
 ._citys0 li { display: inline-block; line-height: 34px; font-size: 15px; color: #888; width: 80px; text-align: center; cursor: pointer; }
